@@ -15,6 +15,7 @@ app.get("/", (req, res) => {
   res.send("Route is working! YaY!");
 });
 
+
 // post data =======================
 // app.use('/api/v1/tour', toursRoute);
 
